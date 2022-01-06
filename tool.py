@@ -5,7 +5,7 @@ import xlsxwriter
 import os
 
 # assign directory
-dir = '/Users/austinheuer/Desktop/LiST/Folder/'
+dir = '/Users/austinheuer/Desktop/LiST/LiST_tool/Folder'
 
 # iterate over files in
 # that directory
