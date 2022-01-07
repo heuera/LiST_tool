@@ -121,5 +121,3 @@ for filename in os.listdir(dir):
         mn.to_excel(writer, sheet_name='Interventions AF & efficacy', index=False)
 
         writer.save()
-
-
